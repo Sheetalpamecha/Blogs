@@ -1,0 +1,58 @@
+---
+
+My experience attending the International conferences!
+At the beginning of 2020, I got the chance to attend 2 popular conferences - Devcof.cz which was organised in Brno, Czech Republic from January 24–26 and FOSDEM at Brussels, Belgium from February 1–2.
+
+
+---
+
+Devconf.cz 2020
+DevConf is a community conference organized by RedHat for contributors in open source technologies.
+Day 1 started with a keynote by Jeremy Eder and Karanbir Singh on "A year in the life of an Open Source SRE: The path to Red Hat-as-a-Service" - They talked about their experience, lesson learned, what and how they did in last year. How SRE's writes truly operable open-source software.
+After the keynote, I went to the booth area where communities have presented their projects. Some of the communities were Fedora, Foreman, OpenShift, Ceph, RDO, Ansible, Pulp. I spent some time interacting with people at the booth and learning what they have been working on.
+RedHat Brno office has showcased a 3D printer at one of the booths. It was pretty awesome. They also allow people at the office to attend an hour class, learn, program and print something on their own. Exciting!! Isn't t?
+After that, I attended a few talks like Estimating dm-vdo storage savings by john Wiele was very insightful. How dm-vdo and vdoestimator can be used in deduplication, compression, and thin provisioning of block storage.
+Some talks to look for -
+* Squeezing Fedora into IoT & clouds (Minimization) by Adam Samalik
+* Moving the Unmovable: migrating from VMs to K8s by Ben Howard
+* IF you do force push…. May the force stay with you Tomáš Tomeček by Irina Gulina
+Talks were so popular that some rooms were full and the volunteers had to block others from entering. Fortunately, all of the sessions are recorded, and here is the link where you can watch them later -  https://bit.ly/3ap72ag
+After Lunch I spent most of the time visiting around the booth area, networking with different people.
+I talked to people from different backgrounds which included students and professionals.
+Day 2
+I attended a very informative and interactive session on Women in Open Source by Imo Flood-Murphy and Katrina Novakovic. The speakers were very engaging. I met with other women, all super smart and empowered, and sharing our common problems and solutions was very inspiring and encouraging.
+
+
+Women in Open Source
+Some talks to look for -
+* From Kernel to Kubernetes - Agile in Open Source by Ranjith Varakantam
+* Finding, Building, Sharing & Deploying Containers by Scott McCarty
+* GitOps - the holy grail of DevOps by Christian Hernandez
+* From Terminal to Container: Tracing Podman Run by Matthew Heon
+In between sessions, I interacted with other developers. I learned about the latest developments in the free software and open-source world. I got a chance to tell what I have been working on Gluster and what's new happening in the gluster community. We talked about glusterfs and other projects like Automating package building and Kadalu.
+Most people found Kadalu interesting and were interested in trying something new for the container storage interface.
+I was amazed to see the number of people who are interested to try and to contribute to Gluster and were eager to know more about how to get involved with the Gluster community. Few started contributing at the event itself.
+At the end of 2nd day, we had a party scheduled and some fun events like badge flair and the Devcon trivia.
+The conference was very well organized and very successful. I fully enjoyed the event with so many interesting sessions and discussions.
+
+
+---
+
+FOSDEM 2020
+The event is free, and a mix of massive crowds, full sessions, and very intriguing topics and speakers. It was interesting to meet many Open Source communities. There were lots of conferences you could choose, starting from less technical ones to highly technical sessions.
+Day 1
+FOSDEM is a very busy conference. With more than 8000 people attending, the rooms fill up fast and traffic at the booth, stalls and in the hallway is very high.
+Starting with Keynote "The Linux Kernel: We have to finish this thing one day ;) - Solving big problems in small steps for more than two decades" on the 1st day I attended a mix of talks.
+Then I visited where all the booths are set up. I had a nice talk with a few interesting developers from the CentOS team and engineers of YottaDB. I use KDE and it was great meeting the developers and we ended up discussing problems faced by KDE users and their solutions.
+I had also got a chance to attend "Open Source Storage BoF - Ceph, Gluster, and Friends". Mike Perez, community human for Ceph at Red Hat, had led the discussion. The attendance was full and we discuss each storage project. There were a few user stories followed by developers resolving their issues.
+Day 2
+2nd day mostly spent in Software-Defined Storage devroom.
+Most attendees came were professionals. I had a chance to meet a few users and resolve their queries.
+Speaking of Storage track, I partly helped Neil in managing the crowd and maintaining storage devroom.
+The storage talks were insightful and you can watch them here - https://video.fosdem.org/2020/
+
+
+My colleagues Ravishankar and Hari Gowtham were speakers at the FOSDEM event. So if you are curious to know what's happening in gluster it's worth to look at their presentation & videos -
+https://fosdem.org/2020/schedule/event/sds_gluster_thin_arbiter/
+https://fosdem.org/2020/schedule/event/evolution_of_path_based_georeplication_in_gluster/
+To sum it up this was a great and interesting experience. My heartfelt thanks to people who have made these conferences possible and those who have shared their knowledge during my exciting trip. I have benefitted very much from these fantastic events.
